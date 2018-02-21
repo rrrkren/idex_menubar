@@ -1,0 +1,25 @@
+{
+  "name": "idex-menubar",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrkren/idex_menubar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrrkren/idex_menubar/issues"
+  },
+  "homepage": "https://github.com/rrrkren/idex_menubar#readme",
+  "dependencies": {
+    "menubar": "^5.2.3",
+    "path": "^0.12.7",
+    "repeat": "0.0.6",
+    "request": "^2.83.0"
+  }
+}
